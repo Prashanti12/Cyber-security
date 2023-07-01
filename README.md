@@ -29,7 +29,7 @@ Learning basic Linux commands and networking concepts to navigate the system eff
 Understanding the OSI Model and its layers to comprehend network communication.
 Practical hands-on experience by solving different rooms on TryHackMe, a platform for learning and practicing cybersecurity skills.
 Utilizing various tools such as Nmap, Burp Suite, Wireshark, Metasploit Framework, Nikto, and Dirb for vulnerability scanning and exploitation.
-[Link](https://drive.google.com/file/d/1kXDPJe9HXQz2VlIfFWBzAhKSx7ZwfxZA/view?usp=drive_link)
+[Link](httpppps://drive.google.com/file/d/1kXDPJe9HXQz2VlIfFWBzAhKSx7ZwfxZA/view?usp=drive_link)
 
 # Project - Privacy
 
@@ -40,7 +40,7 @@ Strategies and techniques to protect personal privacy online.
 Exploration of different tools and technologies used for privacy protection.
 The project aimed to raise awareness about online privacy issues and provide practical solutions to safeguard personal information in the digital realm.
 
-By working on this internship project, I gained practical knowledge and hands-on experience in cybersecurity, ethical hacking, and privacy protection. The project enabled me to develop critical skills in Linux, networking, and using cybersecurity tools effectively. It also enhanced my understanding of various cyber threats and provided insights into the measures needed to secure online privacy. [link](https://docs.google.com/document/d/1vMO6tnlwEHY1t6wBkMconjJi02J5dgnI/edit?usp=sharing&ouid=107461330307233870107&rtpof=true&sd=true)
+By working on this internship project, I gained practical knowledge and hands-on experience in cybersecurity, ethical hacking, and privacy protection. The project enabled me to develop critical skills in Linux, networking, and using cybersecurity tools effectively. It also enhanced my understanding of various cyber threats and provided insights into the measures needed to secure online privacy. [link](httttps://docs.google.com/document/d/1vMO6tnlwEHY1t6wBkMconjJi02J5dgnI/edit?usp=sharing&ouid=107461330307233870107&rtpof=true&sd=true)
 
 
 
